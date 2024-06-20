@@ -1,2 +1,2 @@
 test_msg: prd env refresh 234
-secret: {cipher}bd480a7c1dfee933de2dca60fbbf1aeba7f910adc0f6f28980b349724392093e
+secret: '{cipher}bd480a7c1dfee933de2dca60fbbf1aeba7f910adc0f6f28980b349724392093e'
